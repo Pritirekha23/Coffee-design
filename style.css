@@ -50,7 +50,7 @@ button.custom-button {
    background-color: #655546;
 }
 .reviews img {
-  margin-top: 3%;
+  margin-top: 2%;
   width: 4%;
   height: 5%;
   /* aspect-ratio: 3/2;
@@ -115,3 +115,11 @@ button.custom-button2 {
     color: #ffffff;
     font-size: 18px;
   }
+
+  .footer{
+   height: 30px;
+    background-color: #DBBCA1;
+    color: black;
+    
+    
+}
