@@ -8,7 +8,7 @@
   height: 350px;
 }
 .Aboutus {
-  height: 320px;
+  height: 350px;
   margin-top: -4px;
   background-color: #dbbca1;
   display: flex;
@@ -22,7 +22,7 @@
   width: 100%;
 }
 .Aboutuscontent {
-  margin-top: 3%;
+  margin-top: 1%;
   width: 25%;
 }
 h2 {
@@ -45,8 +45,9 @@ button.custom-button {
 
 /* reviews page */
 .reviews {
-  height: 400px;
-  background-color: #655546;
+    margin-top: -0.9%;
+    height: 400px;
+   background-color: #655546;
 }
 .reviews img {
   margin-top: 3%;
@@ -73,7 +74,7 @@ button.custom-button {
 }
 .rvcontent {
     width: 400px;
-    height: 130px;
+    height: 150px;
     border-radius: 18px;  
     background-color:  #DBBCA1;
     
@@ -83,3 +84,34 @@ button.custom-button {
     color:black;
     padding: 15px;
 }
+
+/* 
+contactus  section*/
+.contactus{
+    display: flex;
+    color: #fff;
+    /* height: 200px; */
+    background-color: #220404;
+    justify-content: space-around;
+}
+
+form{
+    margin-top: 12%;
+}
+.ullisection{
+    margin-top: 2%;
+}
+.ullisection ul li{
+    list-style-type: none;
+}
+.contactnum{
+    margin-top: 2%;
+}
+button.custom-button2 {
+    width: 140px;
+    height: 40px;
+    border-radius: 5px;
+    background-color: #DBBCA1;
+    color: #ffffff;
+    font-size: 18px;
+  }
